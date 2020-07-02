@@ -1,2 +1,2 @@
 # codewars-katas
-Solving codewars katas solutions 
+Solving my solutions for the codewars katas
