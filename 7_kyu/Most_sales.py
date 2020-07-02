@@ -1,3 +1,5 @@
+# Kata: Most sales
+
 # You work in the best consumer electronics corporation, 
 # and your boss wants to find out which three products generate the most revenue. 
 # Given 3 lists of the same length like these:

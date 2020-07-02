@@ -1,4 +1,4 @@
-# Kata:
+# Kata: Picking the best casino game
 
 # At the casino you are presented with a wide array of games to play. 
 # You are there for fun, but you want to be economical about it by playing the game that 
