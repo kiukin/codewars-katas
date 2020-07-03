@@ -1,4 +1,4 @@
-# Nova polynomial add
+# Kata: Nova polynomial add
 
 # This kata is from a series on polynomial handling. ( #1 #2 #3 #4 )
 
