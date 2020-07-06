@@ -1,4 +1,4 @@
-# Filter unused digits
+# Kata: Filter unused digits
 # https://www.codewars.com/kata/55de6173a8fbe814ee000061
 
 # Given few numbers, you need to print out the digits that are not being used.

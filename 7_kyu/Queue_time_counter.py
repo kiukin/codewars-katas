@@ -1,4 +1,4 @@
-# Kata Queue time counter
+# Kata: Queue time counter
 # https://www.codewars.com/kata/5b538734beb8654d6b00016d
 
 # You managed to send your friend to queue for tickets in your stead,

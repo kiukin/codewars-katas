@@ -1,4 +1,4 @@
-# draw me a chessboard
+# Kata: draw me a chessboard
 # https://www.codewars.com/kata/56242b89689c35449b000059
 
 # A grid is a perfect starting point for many games (Chess, battleships, Candy Crush!).
