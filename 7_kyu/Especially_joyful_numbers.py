@@ -1,4 +1,4 @@
-# Especially Joyful Numbers
+# Kata: Especially Joyful Numbers
 # https://www.codewars.com/kata/570523c146edc287a50014b1
 
 # Positive integers that are divisible exactly by the sum of their digits are called Harshad numbers. 
@@ -18,5 +18,6 @@
 def number_joy(n):
     n = abs(n)
     d_sum = sum(map(int,str(n)))
-    return str(d_sum) == str(d_sum)[::-1]
+    d_sum_r = int(str(d_sum)[::-1])
+    return d_sum * d_sum_r == n
 
