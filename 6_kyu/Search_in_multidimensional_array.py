@@ -28,3 +28,16 @@ def locate(seq, value):
 #         if s == value or (isinstance(s,list) and locate(s, value)): 
 #             return True
 #     return False
+
+# Yield the flattened array:
+# --------------------------------
+# def locate(seq, value): 
+#     return value in flatten(seq)
+
+
+# def flatten(seq):
+#     for e in seq:
+#         if isinstance(e, list):
+#             yield from flatten(e)
+#         yield e
+
